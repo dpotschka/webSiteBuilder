@@ -1382,13 +1382,28 @@ body {
   }
 }
 .cid-rctqQWeHEc {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-1920x960.jpg");
 }
 .cid-rctqQWeHEc H1 {
   text-align: left;
+  color: #232323;
 }
 .cid-rctqQWeHEc .mbr-text,
 .cid-rctqQWeHEc .mbr-section-btn {
+  text-align: left;
+  color: #232323;
+}
+.cid-rctX2rxCf6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rctX2rxCf6 H1 {
+  text-align: left;
+}
+.cid-rctX2rxCf6 .mbr-text,
+.cid-rctX2rxCf6 .mbr-section-btn {
   text-align: left;
 }
