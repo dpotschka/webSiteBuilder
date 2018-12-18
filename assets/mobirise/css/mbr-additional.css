@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 .form-control,
 .form-control:focus {
@@ -1402,4 +1402,40 @@ body {
 .cid-rcxzcqc3kj .mbr-section-btn {
   text-align: left;
   color: #232323;
+}
+.cid-rcy1savehJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rcy1savehJ .mbr-text,
+.cid-rcy1savehJ .mbr-section-btn {
+  color: #000000;
+}
+.cid-rcy0s14iA0 {
+  background: #ffffff;
+}
+.cid-rcy0s14iA0 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rcy0s14iA0 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rcy0s14iA0 figcaption {
+  position: relative;
+}
+.cid-rcy0s14iA0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rcy0s14iA0 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rcy0s14iA0 DIV {
+  text-align: right;
+  color: #0f7699;
 }
