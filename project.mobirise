@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "webSiteBuilderDave",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20,7 +20,7 @@
         "display5Font": "Rubik",
         "display5Size": "1.8",
         "display7Font": "Rubik",
-        "display7Size": "1.4",
+        "display7Size": "1",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
